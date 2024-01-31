@@ -1,0 +1,19 @@
+/* add your styles here */
+#heading{
+    text-align: center;
+}
+
+#image-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 40px;
+    padding: 40px;
+}
+
+img {
+    width: 100%;
+}
+
+
+    
